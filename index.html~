@@ -1,0 +1,200 @@
+<!DOCTYPE HTML>
+<!--
+	Landed by HTML5 UP
+	html5up.net | @n33co
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Défis Espace 2015 - Mont de Marsan</title>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<meta name="description" content="" />
+		<meta name="keywords" content="" />
+		<!--[if lte IE 8]><script src="css/ie/html5shiv.js"></script><![endif]-->
+		<script src="js/jquery.min.js"></script>
+		<script src="js/jquery.scrolly.min.js"></script>
+		<script src="js/jquery.dropotron.min.js"></script>
+		<script src="js/jquery.scrollex.min.js"></script>
+		<script src="js/skel.min.js"></script>
+		<script src="js/skel-layers.min.js"></script>
+		<script src="js/init.js"></script>
+		<noscript>
+			<link rel="stylesheet" href="css/skel.css" />
+			<link rel="stylesheet" href="css/style.css" />
+			<link rel="stylesheet" href="css/style-xlarge.css" />
+		</noscript>
+		<!--[if lte IE 9]><link rel="stylesheet" href="css/ie/v9.css" /><![endif]-->
+		<!--[if lte IE 8]><link rel="stylesheet" href="css/ie/v8.css" /><![endif]-->
+	</head>
+	<body class="landing">
+
+		<!-- Header -->
+			<header id="header">
+				<h1 id="logo"><a href="index.html">Défis Espace 2015 - Mont de Marsan</a></h1>
+				<nav id="nav">
+					<ul>
+						<li><a href="index.html">Accueil</a></li>
+						<li><a href="defis.html">Défis</a></li>
+						<li><a href="calendrier.html">Calendrier</a></li>
+						<li>
+							<a href="">Outils</a>
+							<ul>
+								<li><a href="#">On The Fly</a></li>
+								<li><a href="#">Hackathon starter</a></li>
+								<li><a href="#">GitHub</a></li>
+							</ul>
+						</li>
+						<li><a href="logistique.html">Logistique</a></li>
+						<li><a href="hackathon.html" class="button special">Qu'est-ce qu'un Hackathon ?</a></li>
+					</ul>
+				</nav>
+			</header>
+
+		<!-- Banner -->
+			<section id="banner">
+				<div class="content">
+					<header>
+						<h2>NASA Space Apps Challenge 2015</h2>
+						<p>Participez à l'aventure de la conquête spatiale.<br />
+						Rejoignez-nous les <b>11 & 12 avril 2015</b>.<br />
+						La Fabrik, Mont de Marsan.</p>
+					</header>
+					<span class="image"><img src="images/sa_logo.jpg" alt="" /></span>
+					<br /><br /><br />
+					<ul class="actions">
+						<li><a href="http://forums.fabriques-alternatives.org/category/17/international-space-apps-challenge" class="button special">Questions & réponses</a></li>
+						<li><a href="https://2015.spaceappschallenge.org/location/mont-de-marsan" class="button">Inscription au Space Apps M2M</a></li>
+					</ul>
+
+				</div>
+				<a href="#one" class="goto-next scrolly">Next</a>
+			</section>
+
+		<!-- One -->
+			<section id="one" class="spotlight style1 bottom">
+				<span class="image fit main"><img src="images/map.jpg" alt="" /></span>
+				<div class="content">
+					<div class="container">
+						<div class="row">
+							<div class="4u 12u$(medium)">
+								<header>
+									<h2>Un événement international</h2>
+									<p>Plus d'une centaine de sites de par le monde</p>
+								</header>
+							</div>
+							<div class="4u 12u$(medium)">
+								<p>C'est une mobilisation à la hauteur des défis qu'il s'agit de relever.
+								Passionnés de tous bords, bricoleurs, amis, curieux...
+								Tout le monde peut participer !</p>
+							</div>
+							<div class="4u$ 12u$(medium)">
+								<p>De Tokyo à San Francisco, en passant par Nairobi, Linköping, 
+								, Melbourne, Cork ou Euskadi, c'est vraiment la planète entière qui 
+								se prend à rêver, coder, bricoler, rigoler, partager...
+								grands et petits, experts et novices, tous la tête dans les étoiles.</p>
+							</div>
+						</div>
+					</div>
+				</div>
+				<a href="#two" class="goto-next scrolly">Next</a>
+			</section>
+
+		<!-- Two -->
+			<section id="two" class="spotlight style2 right">
+				<span class="image fit main"><img src="images/spacegirls.png" alt="" /></span>
+				<div class="content">
+					<header>
+						<h2>Un Hackathon pas comme les autres</h2>
+						<p>Besoin de toutes et tous pour atteindre les étoiles</p>
+					</header>
+					<p>Les hackathons sont une formidable occasion de rencontre entre des personnes ayant des idées et d'autres ayant des compétences pour "coder".
+					Mais dans les défis autour de l'espace, les idées et le code ne suffisent plus !
+					Il faut une somme de connaissances et compétences bien plus large : utiliser une machine à coudre, dessiner, faire de la mécanique, imprimer en 3D, modéliser, faire de la vidéo, composer de la musique ou des sons...</p>
+					<ul class="actions">
+						<li><a href="#" class="button">Découvrir les hackathons</a></li>
+					</ul>
+				</div>
+				<a href="#three" class="goto-next scrolly">Next</a>
+			</section>
+
+		<!-- Three -->
+			<section id="three" class="spotlight style3 left">
+				<span class="image fit main bottom"><img src="images/navette.jpg" alt="" /></span>
+				<div class="content">
+					<header>
+						<h2>Des défis, des mini-conférences... un public !</h2>
+						<p>Encouragez cette initiative</p>
+					</header>
+					<p>En marge des challenges que relèvent les équipes, des animations et des moments forts vont agrémenter ce week-end exceptionnel.
+					Votre présence, votre curiosité, vos sourire comme vos applaudissements y contribueront, rejoignez-nous.</p>
+					<ul class="actions">
+						<li><a href="#" class="button">Le programme</a></li>
+					</ul>
+				</div>
+				<a href="#four" class="goto-next scrolly">Next</a>
+			</section>
+
+		<!-- Four -->
+			<section id="four" class="wrapper style1 special fade-up">
+				<div class="container">
+					<header class="major">
+						<h2>11 & 12 avril 2015 : à la Fabrik, Mont de Marsan</h2>
+						<p>Avec la participation et le concours de ces spatio-acteurs</p>
+					</header>
+					<div class="box alt">
+						<div class="row uniform">
+							<section class="4u 6u(medium) 12u$(xsmall)">
+								<span class="image"><img src="images/logo-FA4.png" alt="" /></span>
+								<h3>Fabriques Alternatives</h3>
+								<p>Fabriquer c'est facile, et ça s'apprend : FabLabs dans les Landes.</p>
+							</section>
+							<section class="4u 6u$(medium) 12u$(xsmall)">
+								<span class="image"><img src="images/logo-agglo.png" alt="" /></span>
+								<h3>Agglo du Marsan</h3>
+								<p>L'agglo où il fait bon vivre pour développer les technologies de demain.</p>
+							</section>
+							<section class="4u$ 6u(medium) 12u$(xsmall)">
+								<span class="image"><img src="images/logo-aquinetic.png" alt="" /></span>
+								<h3>Aquinetic</h3>
+								<p>Pôle de compétences autour des technologies Libres.</p>
+							</section>
+						</div>
+					</div>
+					<footer class="major">
+						<ul class="actions">
+							<li><a href="#" class="button icon fa-heart">Si tu Likes - clique içi !</a></li>
+						</ul>
+					</footer>
+				</div>
+			</section>
+
+		<!-- Five -->
+			<section id="five" class="wrapper style2 special fade">
+				<div class="container">
+					<header>
+						<h2>Pour en savoir plus ou poser vos questions</h2>
+						<p>Rejoignez-nous sur le forum Fabriques Alternatives</p>
+					</header>
+							<ul class="actions">
+								<li><a href="http://forums.fabriques-alternatives.org/category/17/international-space-apps-challenge" class="button special">Questions & réponses</a></li>
+								<li><a href="https://2015.spaceappschallenge.org/location/mont-de-marsan" class="button">Inscription au Space Apps M2M</a></li>
+							</ul>
+				</div>
+			</section>
+
+		<!-- Footer -->
+			<footer id="footer">
+				<ul class="icons">
+					<li><a href="https://twitter.com/spaceappsm2m?lang=fr" class="icon alt fa-twitter"><span class="label">Twitter</span></a></li>
+					<li><a href="https://www.facebook.com/spaceappsm2m" class="icon alt fa-facebook"><span class="label">Facebook</span></a></li>
+					<li><a href="https://plus.google.com/u/0/b/105346775597308344296/105346775597308344296/posts" class="icon alt fa-google-plus"><span class="label">Google+</span></a></li>
+					<!-- <li><a href="#" class="icon alt fa-github"><span class="label">GitHub</span></a></li>
+					<li><a href="#" class="icon alt fa-envelope"><span class="label">Email</span></a></li>-->
+				</ul>
+				<div >
+					<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a> Fabriques Alternatives
+				</div>
+			</footer>
+
+	</body>
+</html>
