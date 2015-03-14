@@ -18,6 +18,15 @@
 		<script src="js/skel.min.js"></script>
 		<script src="js/skel-layers.min.js"></script>
 		<script src="js/init.js"></script>
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+		
+		  ga('create', 'UA-60744371-1', 'auto');
+		  ga('send', 'pageview');
+		</script>
 		<noscript>
 			<link rel="stylesheet" href="css/skel.css" />
 			<link rel="stylesheet" href="css/style.css" />
@@ -86,7 +95,7 @@
 									<p>Cependant, ne perdez pas de vue que le Space Apps est un Hackathon pas comme les autres. Il fait appel à un bien plus large évantail de compétences que seulement les développeurs informatiques.</p>
 
 									<h3>Amener votre grand mère au Hackathon</h3>
-									<p>Si si c'est possible, et c'est très sérieux ! Regarder cette vidéo d'un projet développé lors du Space Apps 2014 en Angleterre. La grand mère avec sa machine à coudre peut très bien contribuer à rabiller les spationautes de demain...</p>
+									<p>Si si c'est possible, et c'est très sérieux ! Regarder cette vidéo d'un projet développé lors du Space Apps 2014 en Angleterre. La grand mère avec sa machine à coudre peut très bien contribuer à rhabiller les spationautes de demain...</p>
 									<iframe src="https://player.vimeo.com/video/92284115" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 									<p>Vous savez ce qu'il vous reste à faire !</p>
 
@@ -116,3 +125,4 @@
 
 	</body>
 </html>
+
