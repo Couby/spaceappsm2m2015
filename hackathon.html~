@@ -44,7 +44,7 @@
 					<ul>
 						<li><a href="index.html">Accueil</a></li>
 						<li><a href="#">Défis</a></li>
-						<li><a href="#">Calendrier</a></li>
+						<li><a href="calendrier.html">Calendrier</a></li>
 						<li>
 							<a href="">Outils</a>
 							<ul>
@@ -54,7 +54,7 @@
 							</ul>
 						</li>
 						<li><a href="#">Logistique</a></li>
-						<li><a href="hackathon.html" class="button special">Qu'est-ce qu'un Hackathon ?</a></li>
+						<li><a href="#" class="button special">Qu'est-ce qu'un Hackathon ?</a></li>
 					</ul>
 				</nav>
 			</header>
@@ -73,7 +73,7 @@
 								<section id="sidebar">
 									<section>
 										<h3>Un hackathon</h3>
-										<p>Contraction de hack et marathon, est un événement dans lequel des développeurs informatique se réunissent pour faire de la programmation collaborative.</p>
+										<p>Hackathon ou codeathon, contraction de hack (code) et marathon, est un événement dans lequel des développeurs informatique se réunissent pour faire de la programmation collaborative.</p>
 										<footer>
 											<ul class="actions">
 												<li><a href="https://fr.wikipedia.org/wiki/Hackathon" class="button">En savoir plus</a></li>
