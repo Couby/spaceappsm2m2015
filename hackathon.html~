@@ -42,19 +42,22 @@
 				<h1 id="logo"><a href="index.html">Défis Espace 2015 - Mont de Marsan</a></h1>
 				<nav id="nav">
 					<ul>
-						<li><a href="index.html">Accueil</a></li>
-						<li><a href="#">Défis</a></li>
-						<li><a href="calendrier.html">Calendrier</a></li>
+						<li><a href="index.html"><span class="fa fa-home"></span>Accueil</a></li>
+						<li><a href="#"><span class="fa fa-trophy"></span>Défis</a></li>
+						<li><a href="calendrier.html"><span class="fa fa-calendar"></span>Calendrier</a></li>
 						<li>
-							<a href="">Outils</a>
+							<a href=""><span class="fa fa-wrench"></span>Outils</a>
 							<ul>
-								<li><a href="https://github.com/huiledecode/OTF-" target="_blank">On The Fly</a></li>
-								<li><a href="https://github.com/sahat/hackathon-starter" target="_blank">Hackathon starter</a></li>
-								<li><a href="https://github.com" target="_blank">GitHub</a></li>
+								<li><a href="https://github.com/huiledecode/OTF-" target="_blank"><i class="fa fa-github"></i>
+ On The Fly</a></li>
+								<li><a href="https://github.com/sahat/hackathon-starter" target="_blank"><i class="fa fa-github"></i>
+ Hackathon starter</a></li>
+								<li><a href="https://github.com" target="_blank"><i class="fa fa-github"></i>
+ GitHub</a></li>
 							</ul>
 						</li>
-						<li><a href="#">Logistique</a></li>
-						<li><a href="#" class="button special">Qu'est-ce qu'un Hackathon ?</a></li>
+						<li><a href="#"><span class="fa fa-truck"></span>Logistique</a></li>
+						<li><a href="#" class="button special"><span class="fa fa-code"></span>Qu'est-ce qu'un Hackathon ?</a></li>
 					</ul>
 				</nav>
 			</header>
@@ -63,7 +66,7 @@
 			<div id="main" class="wrapper style1">
 				<div class="container">
 					<header class="major">
-						<h2>Qu'est-ce qu'un Hackathon ?</h2>
+						<h2><i class="icon alt fa-code"></i> Qu'est-ce qu'un Hackathon ?</h2>
 						<p>Ne pas oublier que le Space Apps est bien plus multidisciplinaire que les "code-a-thon" traditionnels !</p>
 					</header>
 					<div class="row 150%">
@@ -112,9 +115,9 @@
 		<!-- Footer -->
 			<footer id="footer">
 				<ul class="icons">
-					<li><a href="https://twitter.com/spaceappsm2m?lang=fr" class="icon alt fa-twitter"><span class="label">Twitter</span></a></li>
-					<li><a href="https://www.facebook.com/spaceappsm2m" class="icon alt fa-facebook"><span class="label">Facebook</span></a></li>
-					<li><a href="https://plus.google.com/u/0/b/105346775597308344296/105346775597308344296/posts" class="icon alt fa-google-plus"><span class="label">Google+</span></a></li>
+					<li><a href="https://twitter.com/spaceappsm2m?lang=fr" class="icon alt fa-twitter" target="_blank"><span class="label">Twitter</span></a></li>
+					<li><a href="https://www.facebook.com/spaceappsm2m" class="icon alt fa-facebook" target="_blank"><span class="label">Facebook</span></a></li>
+					<li><a href="https://plus.google.com/u/0/b/105346775597308344296/105346775597308344296/posts" class="icon alt fa-google-plus" target="_blank"><span class="label">Google+</span></a></li>
 					<!-- <li><a href="#" class="icon alt fa-github"><span class="label">GitHub</span></a></li>
 					<li><a href="#" class="icon alt fa-envelope"><span class="label">Email</span></a></li>-->
 				</ul>
