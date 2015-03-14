@@ -48,9 +48,9 @@
 						<li>
 							<a href="">Outils</a>
 							<ul>
-								<li><a href="https://github.com/huiledecode/OTF-">On The Fly</a></li>
-								<li><a href="https://github.com/sahat/hackathon-starter">Hackathon starter</a></li>
-								<li><a href="https://github.com">GitHub</a></li>
+								<li><a href="https://github.com/huiledecode/OTF-" target="_blank">On The Fly</a></li>
+								<li><a href="https://github.com/sahat/hackathon-starter" target="_blank">Hackathon starter</a></li>
+								<li><a href="https://github.com" target="_blank">GitHub</a></li>
 							</ul>
 						</li>
 						<li><a href="#">Logistique</a></li>
@@ -73,7 +73,7 @@
 								<section id="sidebar">
 									<section>
 										<h3>Un hackathon</h3>
-										<p>Hackathon ou codeathon, contraction de hack (code) et marathon, est un événement dans lequel des développeurs informatique se réunissent pour faire de la programmation collaborative.</p>
+										<p>Contraction de hack et marathon, est un événement dans lequel des développeurs informatique se réunissent pour faire de la programmation collaborative.</p>
 										<footer>
 											<ul class="actions">
 												<li><a href="https://fr.wikipedia.org/wiki/Hackathon" class="button">En savoir plus</a></li>
