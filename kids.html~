@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title>Programme du Space Apps 2015 à Mont-de-Marsan</title>
+		<title>Space Apps Kids Mont-de-Marsan 2015</title>
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 		<meta name="description" content="" />
 		<meta name="keywords" content="" />
@@ -44,8 +44,8 @@
 					<ul>
 						<li><a href="index.html"><span class="fa fa-home"></span>Accueil</a></li>
 						<li><a href="#"><span class="fa fa-trophy"></span>Défis</a></li>
-						<li><a href="#"><span class="fa fa-calendar"></span>Calendrier</a></li>
-						<li><a href="kids.html"><span class="fa fa-reddit"></span>Kids</a></li>
+						<li><a href="calendrier.html"><span class="fa fa-calendar"></span>Calendrier</a></li>
+						<li><a href="#"><span class="fa fa-reddit"></span>Kids</a></li>
 						<li><a href="#"><span class="fa fa-truck"></span>Logistique</a></li>
 						<li><a href="hackathon.html" class="button special"><span class="fa fa-code"></span>Qu'est-ce qu'un Hackathon ?</a></li>
 					</ul>
@@ -57,69 +57,19 @@
 			<div id="main" class="wrapper style1">
 				<div class="container">
 					<header class="major">
-						<h2><i class="icon alt fa-calendar"></i> Programme du week-end</h2>
-						<p>Journée du samedi 11 avril 2015</p>
+						<h2><i class="icon alt fa-reddit"></i> Space Apps Kids</h2>
 					</header>
-					<div class="table-wrapper">
-						<table class="alt">
-							<thead>
-								<tr>
-									<th>Horaire</th>
-									<th>Activité</th>
-								</tr>
-							</thead>
-							<tbody>
-								<tr>
-									<td>8h00 - 9h00</td>
-									<td>Accueil et petit déjeuner</td>
-								</tr>
-								<tr>
-									<td>9h00 - 9h30</td>
-									<td>Briefing organisation et logistique</td>
-								</tr>
-								<tr>
-									<td>9h30 - 10h30</td>
-									<td>Les coachs constituent et sélectionnent leurs équipes</td>
-								</tr>
-								<tr>
-									<td>10h30 - 11h00</td>
-									<td>Briefing des coachs à leurs équipes</td>
-								</tr>
-								<tr>
-									<td>11h00 - 12h30</td>
-									<td>C'est parti : début des développements</td>
-								</tr>
-								<tr>
-									<td>12h30 - 13h30</td>
-									<td>Pause déjeuner</td>
-								</tr>
-								<tr>
-									<td>13h30 - 16h30</td>
-									<td>Poursuite des développements</td>
-								</tr>
-								<tr>
-									<td>16h30 - 17h30</td>
-									<td>[Optionnel] Point d'étape sur les développements en cours</td>
-								</tr>
-								<tr>
-									<td>17h30 - 19h00</td>
-									<td>Poursuite des développements</td>
-								</tr>
-								<tr>
-									<td>19h00 - 20h00</td>
-									<td>Pause dîner</td>
-								</tr>
-								<tr>
-									<td>20h00 - toute la nuit [pour ceux qui veulent...]</td>
-									<td>Poursuite des développements</td>
-								</tr>
-							</tbody>
-						</table>
-					</div>
+					<p>Une activité sera spécifiquement dédiée <b>aux Kids de 6 à 12 ans le samedi après-midi</b>. Les enfants relèveront un défi en lien avec le Space Apps en faisant preuve de créativité.</p>						
+					<p>Encadrés par deux Space Girls et notre directrice des vols en titre, le nombre de places pour ce jeune équipage est limité à 10.</p>
+					<p>Pour inscrire un enfant, nous écrire directement à <a href="mailto:fabriques.alternatives@gmail.com">fabriques.alternatives@gmail.com</a>.</p>
+					<p><b>Est-ce payant ? Non.</b> L'inscription et la participation à ces activités sont gratuites.</p>
+					<p><b>A qui s'adressent ces activités ?</b> Enfants de 6 à 12 ans. Aime l'espace ? Aime la technologie ? Aime la nouveauté ? Si vous avez répondu "oui" à une ou plusieurs de ces questions pour votre enfant, alors c'est que cet événement est pour lui !</p>
+					<p><b>Faut-il amener quelque chose ?</b> Curiosité, joie et envie d'apprendre !</p>
+					<p> - </p>
 
 					<header class="major">
 						<h2></h2>
-						<p>Journée du dimanche 12 avril 2015</p>
+						<p>Samedi 11 avril 2015 - de 13h30 à 16h30</p>
 					</header>
 					<div class="table-wrapper">
 						<table class="alt">
@@ -131,48 +81,16 @@
 							</thead>
 							<tbody>
 								<tr>
-									<td>...de la nuit - 8h00</td>
-									<td>Poursuite des développements</td>
+									<td>13h30 - 14h00</td>
+									<td>Acceuil et explications sur le défi</td>
 								</tr>
 								<tr>
-									<td>A partir de 8h00</td>
-									<td>Petit déjeuner disponible - les développements continuent</td>
-								</tr>
-								<tr>
-									<td>10h00 - 10h30</td>
-									<td>Briefing logistique pour la dernière ligne droite</td>
-								</tr>
-								<tr>
-									<td>10h30 - 13h00</td>
-									<td>Développements : sprint final</td>
-								</tr>
-								<tr>
-									<td>13h00</td>
-									<td>Horaire limite de publication des travaux</td>
-								</tr>
-								<tr>
-									<td>13h00 - 14h00</td>
-									<td>Pause déjeuner</td>
-								</tr>
-								<tr>
-									<td>14h00 - 15h30</td>
-									<td>Présentations des travaux</td>
-								</tr>
-								<tr>
-									<td>15h30 - 16h00</td>
-									<td>Le jury local délibère</td>
+									<td>14h00 - 16h00</td>
+									<td>Créations pour le défi</td>
 								</tr>
 								<tr>
 									<td>16h00 - 16h30</td>
-									<td>Résultats du week-end</td>
-								</tr>
-								<tr>
-									<td>16h30 - 17h30</td>
-									<td>Interviews des équipes et communication des résultats</td>
-								</tr>
-								<tr>
-									<td>17h30 - 17h45</td>
-									<td>Clôture de l'événement</td>
+									<td>Goûter offert aux jeunes participants</td>
 								</tr>
 							</tbody>
 						</table>
@@ -192,7 +110,7 @@
 					-->
 				</ul>
 				<div >
-					<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a> <a href="http://fabriques-alternatives.org"  target="_blank">Fabriques Alternatives</a>, événement organisé en partenariat avec la <a href="http://www.nasa.gov"  target="_blank">NASA</a>
+					<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a> <a href="http://fabriques-alternatives.org"  target="_blank">Fabriques Alternatives</a> en partenariat avec la <a href="http://www.nasa.gov"  target="_blank">NASA</a>
 				</div>
 			</footer>
 

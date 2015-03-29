@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title>Left Sidebar - Landed by HTML5 UP</title>
+		<title>Programme du Space Apps 2015 à Mont-de-Marsan</title>
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 		<meta name="description" content="" />
 		<meta name="keywords" content="" />
@@ -45,20 +45,11 @@
 						<li><a href="index.html"><span class="fa fa-home"></span>Accueil</a></li>
 						<li><a href="#"><span class="fa fa-trophy"></span>Défis</a></li>
 						<li><a href="#"><span class="fa fa-calendar"></span>Calendrier</a></li>
-						<li>
-							<a href=""><span class="fa fa-wrench"></span>Outils</a>
-							<ul>
-								<li><a href="https://github.com/huiledecode/OTF-" target="_blank"><i class="fa fa-github"></i>
- On The Fly</a></li>
-								<li><a href="https://github.com/sahat/hackathon-starter" target="_blank"><i class="fa fa-github"></i>
- Hackathon starter</a></li>
-								<li><a href="https://github.com" target="_blank"><i class="fa fa-github"></i>
- GitHub</a></li>
-							</ul>
-						</li>
+						<li><a href="kids.html"><span class="fa fa-reddit"></span>Kids</a></li>
 						<li><a href="#"><span class="fa fa-truck"></span>Logistique</a></li>
 						<li><a href="hackathon.html" class="button special"><span class="fa fa-code"></span>Qu'est-ce qu'un Hackathon ?</a></li>
 					</ul>
+
 				</nav>
 			</header>
 
@@ -66,7 +57,7 @@
 			<div id="main" class="wrapper style1">
 				<div class="container">
 					<header class="major">
-						<h2>Programme du week-end</h2>
+						<h2><i class="icon alt fa-calendar"></i> Programme du week-end</h2>
 						<p>Journée du samedi 11 avril 2015</p>
 					</header>
 					<div class="table-wrapper">
