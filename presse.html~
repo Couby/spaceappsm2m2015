@@ -60,8 +60,17 @@
 					<header class="major">
 						<h2><i class="icon alt fa-folder-open"></i> Supports Presse</h2>
 					</header>
-					<p><a href="fichiers/International%20Space%20Apps%20Mont%20de%20Marsan%20v4%20court.pdf">Communiqué presse court - 1 avril 2015</a></p>
-					<p><a href="fichiers/International%20Space%20Apps%20Mont%20de%20Marsan%20v4%20long.pdf">Communiqué presse court - 1 avril 2015</a></p><p><a href="images/sa_logo.jpg">Logo International Space Apps</a></p>
+					<div class="box alt">
+								<div class="row 50% uniform">
+									<div class="4u  6u(xsmall)">
+										<a href="fichiers/NASA%20Space%20Apps%20M2M%202015%20-%20Communiqué%20v5.pdf">Communiqué de presse - 2 avril 2015<span class="image fit"><img src="fichiers/communique.png" alt="" /></a></span>
+									</div>
+									<div class="4u  6u$(xsmall)">
+										<a href="fichiers/affiche_v4.pdf">Affiche<span class="image fit"><img src="fichiers/affiche.png" alt="" /></a></p></span>
+									</div>
+										<a href="fichiers/sa_logo.jpg">Logo Space Apps<span class="image fit"><img src="fichiers/sa_logo.jpg" alt="" /></a></p></span>
+									</div>
+								</div>
 				</div>
 			</div>
 
