@@ -50,6 +50,24 @@
 			border-bottom-color: transparent;
 		}
 
+	a2 {
+		-moz-transition: border-color 0.2s ease-in-out, color 0.2s ease-in-out;
+		-webkit-transition: border-color 0.2s ease-in-out, color 0.2s ease-in-out;
+		-o-transition: border-color 0.2s ease-in-out, color 0.2s ease-in-out;
+		-ms-transition: border-color 0.2s ease-in-out, color 0.2s ease-in-out;
+		transition: border-color 0.2s ease-in-out, color 0.2s ease-in-out;
+		border-bottom: dotted 1px;
+		color: #ffffff;
+		text-decoration: none;
+		text-shadow: 2px 2px 0px rgba(23, 23, 23, 0.82);
+	}
+
+		a2:hover {
+			color: #6BBBFF !important;
+			border-bottom-color: transparent;
+			cursor: pointer;
+		}
+
 	strong, b {
 		color: #ffffff;
 		font-weight: 300;
@@ -159,6 +177,10 @@
 
 	.align-center {
 		text-align: center;
+	}
+
+	.social-top {
+		float: left;
 	}
 
 	.align-right {
@@ -632,6 +654,16 @@
 		position: relative;
 		overflow: hidden;
 	}
+		.image.partenaire {
+			background-color: white;
+		}
+			.image.partenaire.rosetta {
+				height: 220px;
+			}
+
+			.image.partenaire.philae{
+				height: 110px;
+			}
 
 		.image:before {
 			content: '';
@@ -639,7 +671,7 @@
 			position: absolute;
 			left: 0;
 			top: 0;
-			background-image: url("images/overlay.png");
+			/*background-image: url("images/overlay.png"); */
 			width: 100%;
 			height: 100%;
 			z-index: 1;
@@ -735,6 +767,29 @@
 				}
 
 					ul.icons li .icon:before {
+						font-size: 2em;
+					}
+
+
+		ul.icons-top {
+			cursor: default;
+			list-style: none;
+			padding-left: 0;
+			float: left;
+		}
+
+			ul.icons-top li {
+				display: inline-block;
+				height: 2.5em;
+				line-height: 2.5em;
+				padding: 0 0.5em;
+			}
+
+				ul.icons-top li .icon {
+					font-size: 0.8em;
+				}
+
+					ul.icons-top li .icon:before {
 						font-size: 2em;
 					}
 
@@ -1554,9 +1609,9 @@
 		#banner:after {
 			background-image: -moz-linear-gradient(top, rgba(23, 24, 32, 0.70), rgba(23, 24, 32, 0.70)), url("images/overlay.png");;
 			background-image: -webkit-linear-gradient(top, rgba(23, 24, 32, 0.70), rgba(23, 24, 32, 0.70)), url("images/overlay.png");;
-			background-image: -o-linear-gradient(top, rgba(23, 24, 32, 0.95), rgba(23, 24, 32, 0.95)), url("images/overlay.png");;
-			background-image: -ms-linear-gradient(top, rgba(23, 24, 32, 0.95), rgba(23, 24, 32, 0.95)), url("images/overlay.png");;
-			background-image: linear-gradient(top, rgba(23, 24, 32, 0.95), rgba(23, 24, 32, 0.95)), url("images/overlay.png");;
+			background-image: -o-linear-gradient(top, rgba(23, 24, 32, 0.70), rgba(23, 24, 32, 0.70)), url("images/overlay.png");;
+			background-image: -ms-linear-gradient(top, rgba(23, 24, 32, 0.70), rgba(23, 24, 32, 0.70)), url("images/overlay.png");;
+			background-image: linear-gradient(top, rgba(23, 24, 32, 0.70), rgba(23, 24, 32, 0.70)), url("images/overlay.png");;
 			content: '';
 			display: block;
 			height: 100%;
@@ -1663,3 +1718,4 @@
 				#footer .copyright li a {
 					color: inherit;
 				}
+
