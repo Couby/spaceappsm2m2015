@@ -18,6 +18,15 @@
 		<script src="js/skel.min.js"></script>
 		<script src="js/skel-layers.min.js"></script>
 		<script src="js/init.js"></script>
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+		
+		  ga('create', 'UA-60744371-1', 'auto');
+		  ga('send', 'pageview');
+		</script>
 		<noscript>
 			<link rel="stylesheet" href="css/skel.css" />
 			<link rel="stylesheet" href="css/style.css" />
@@ -29,23 +38,17 @@
 	<body>
 
 		<!-- Header -->
-			<header id="header" class="skel-layers-fixed">
+			<header id="header">
 				<h1 id="logo"><a href="index.html">Défis Espace 2015 - Mont de Marsan</a></h1>
 				<nav id="nav">
 					<ul>
-						<li><a href="index.html">Accueil</a></li>
-						<li><a href="defis.html">Défis</a></li>
-						<li><a href="calendrier.html">Calendrier</a></li>
-						<li>
-							<a href="">Outils</a>
-							<ul>
-								<li><a href="#">On The Fly</a></li>
-								<li><a href="#">Hackathon starter</a></li>
-								<li><a href="#">GitHub</a></li>
-							</ul>
-						</li>
-						<li><a href="logistique.html">Logistique</a></li>
-						<li><a href="hackathon.html" class="button special">Qu'est-ce qu'un Hackathon ?</a></li>
+						<li><a href="index.html"><span class="fa fa-home"></span>Accueil</a></li>
+						<li class="active"><a href="#"><span class="fa fa-trophy"></span>Défis</a></li>
+						<li><a href="calendrier.html"><span class="fa fa-calendar"></span>Calendrier</a></li>
+						<li><a href="kids.html"><span class="fa fa-reddit"></span>Kids</a></li>
+						<li><a href="logistique.html"><span class="fa fa-truck"></span>Logistique</a></li>
+						<li><a href="presse.html"><span class="fa fa-folder-open"></span>Presse</a></li>
+						<li><a href="hackathon.html" class="button special"><span class="fa fa-code"></span>Qu'est-ce qu'un Hackathon ?</a></li>
 					</ul>
 				</nav>
 			</header>
@@ -116,6 +119,7 @@
 					<li><a href="https://www.facebook.com/spaceappsm2m" class="icon alt fa-facebook" target="_blank"><span class="label">Facebook</span></a></li>
 					<li><a href="https://plus.google.com/u/0/b/105346775597308344296/105346775597308344296/posts" class="icon alt fa-google-plus" target="_blank"><span class="label">Google+</span></a></li>
 					<li><a href="mailto:fabriques.alternatives@gmail.com" class="icon alt fa-envelope"><span class="label">Email</span></a></li>
+					<li><a href="http://forums.fabriques-alternatives.org/category/17/international-space-apps-challenge" class="icon alt fa-question-circle" target="_blank"><span class="label">Forums Fabriques Alternatives</span></a></li>
 					<!-- <li><a href="#" class="icon alt fa-github"><span class="label">GitHub</span></a></li>
 					-->
 				</ul>

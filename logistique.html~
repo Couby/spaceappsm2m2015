@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title>Left Sidebar - Landed by HTML5 UP</title>
+		<title>Space Apps M2M - Logistique</title>
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 		<meta name="description" content="" />
 		<meta name="keywords" content="" />
@@ -18,6 +18,15 @@
 		<script src="js/skel.min.js"></script>
 		<script src="js/skel-layers.min.js"></script>
 		<script src="js/init.js"></script>
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+		
+		  ga('create', 'UA-60744371-1', 'auto');
+		  ga('send', 'pageview');
+		</script>
 		<noscript>
 			<link rel="stylesheet" href="css/skel.css" />
 			<link rel="stylesheet" href="css/style.css" />
@@ -37,7 +46,8 @@
 						<li><a href="#"><span class="fa fa-trophy"></span>Défis</a></li>
 						<li><a href="calendrier.html"><span class="fa fa-calendar"></span>Calendrier</a></li>
 						<li><a href="kids.html"><span class="fa fa-reddit"></span>Kids</a></li>
-						<li><a href="logistique.html"><span class="fa fa-truck"></span>Logistique</a></li>
+						<li class="active"><a href="#"><span class="fa fa-truck"></span>Logistique</a></li>
+						<li><a href="presse.html"><span class="fa fa-folder-open"></span>Presse</a></li>
 						<li><a href="hackathon.html" class="button special"><span class="fa fa-code"></span>Qu'est-ce qu'un Hackathon ?</a></li>
 					</ul>
 
@@ -48,58 +58,32 @@
 			<div id="main" class="wrapper style1">
 				<div class="container">
 					<header class="major">
-						<h2>Left Sidebar</h2>
-						<p>Ipsum dolor feugiat aliquam tempus sed magna lorem consequat accumsan</p>
+						<h2><i class="icon alt fa-truck"></i> Logistique</h2>
 					</header>
-					<div class="row 150%">
-						<div class="4u 12u$(medium)">
 
-							<!-- Sidebar -->
-								<section id="sidebar">
-									<section>
-										<h3>Magna Feugiat</h3>
-										<p>Sed tristique purus vitae volutpat commodo suscipit amet sed nibh. Proin a ullamcorper sed blandit. Sed tristique purus vitae volutpat commodo suscipit ullamcorper commodo suscipit amet sed nibh. Proin a ullamcorper sed blandit..</p>
-										<footer>
-											<ul class="actions">
-												<li><a href="#" class="button">Learn More</a></li>
-											</ul>
-										</footer>
-									</section>
-									<hr />
-									<section>
-										<a href="#" class="image fit"><img src="images/pic06.jpg" alt="" /></a>
-										<h3>Amet Lorem Tempus</h3>
-										<p>Sed tristique purus vitae volutpat commodo suscipit amet sed nibh. Proin a ullamcorper sed blandit. Sed tristique purus vitae volutpat commodo suscipit ullamcorper sed blandit lorem ipsum dolore.</p>
-										<footer>
-											<ul class="actions">
-												<li><a href="#" class="button">Learn More</a></li>
-											</ul>
-										</footer>
-									</section>
-								</section>
+						<h3><i class="icon alt fa-sign-in"></i> Inscription</h3>
+						<p>L'inscription au Space Apps challenge est <strong>gratuite</strong> et ouverte à tout public (15 ans minimum pour le Space Apps "adulte"). Le nombre de places est limité.</p>
+						<p><a href="https://docs.google.com/forms/d/1XtjF3hY1S-Hmys_Zc2fxyibeOlRWdsbZPT8WQpGXHqM/viewform?usp=send_form" class="button special" target="_blank"><span class="fa fa-sign-in"></span> Inscription au Space Apps M2M</a></p>						
 
-						</div>
-						<div class="8u$ 12u$(medium) important(medium)">
+						<h3><i class="icon alt fa-map-marker"></i> Se rendre à la Fabrik</h3>
+						<p><div class="row">
+							<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2874.7491256013714!2d-0.4811824999999767!3d43.9024624!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd55d0f8f95a377d%3A0xcf24de507791a84c!2s236+Avenue+de+Canenx%2C+40000+Mont-de-Marsan%2C+France!5e0!3m2!1sen!2sus!4v1428079017689" width="400" height="300" frameborder="0" style="border:0"></iframe>
+							<p>236, avenue de Canenx<br />
+							40000 Mont de Marsan<br />
+							T. 05 58 51 88 88</p>						
+						</div></p>
 
-							<!-- Content -->
-								<section id="content">
-									<a href="#" class="image fit"><img src="images/pic05.jpg" alt="" /></a>
-									<h3>Dolore Amet Consequat</h3>
-									<p>Aliquam massa urna, imperdiet sit amet mi non, bibendum euismod est. Curabitur mi justo, tincidunt vel eros ullamcorper, porta cursus justo. Cras vel neque eros. Vestibulum diam quam, mollis at magna consectetur non, malesuada quis augue. Morbi tincidunt pretium interdum est. Curabitur mi justo, tincidunt vel eros ullamcorper, porta cursus justo. Cras vel neque eros. Vestibulum diam.</p>
-									<p>Vestibulum diam quam, mollis at consectetur non, malesuada quis augue. Morbi tincidunt pretium interdum. Morbi mattis elementum orci, nec dictum porta cursus justo. Quisque ultricies lorem in ligula condimentum, et egestas turpis sagittis. Cras ac nunc urna. Nullam eget lobortis purus. Phasellus vitae tortor non est placerat tristique.</p>
-									<h3>Sed Magna Ornare</h3>
-									<p>In vestibulum massa quis arcu lobortis tempus. Nam pretium arcu in odio vulputate luctus. Suspendisse euismod lorem eget lacinia fringilla. Sed sed felis justo. Nunc sodales elit in laoreet aliquam. Nam gravida, nisl sit amet iaculis porttitor, risus nisi rutrum metus.</p>
-									<ul>
-										<li>Faucibus orci lobortis ac adipiscing integer.</li>
-										<li>Col accumsan arcu mi aliquet placerat.</li>
-										<li>Lobortis vestibulum ut magna tempor massa nascetur.</li>
-										<li>Blandit massa non blandit tempor interdum.</li>
-										<li>Lacinia mattis arcu nascetur lobortis.</li>
-									</ul>
-								</section>
+						<h3><i class="icon alt fa-cutlery"></i> Alimentation</h3>
+						<p>Gratuite. L'organisation pourvoit à la restauration des participants pendant le week-end.</p>						
 
-						</div>
-					</div>
+						<h3><i class="icon alt fa-bed"></i> Hébergement</h3>
+						<p>Un espace "repos" <strong>non équipé</strong> sera disponible. Prévoir sac de couchage, tapis de sol et matelas gonflable selon votre confort.</p>
+					
+						<h3><i class="icon alt fa-wrench"></i> Technique</h3>
+						<p>Pour les développeurs informatique, venir avec son ordinateur portable.</p>					
+						<span class="image left"><img src="http://fabriques-alternatives.org/images/presentation/prusa.jpeg" alt="" /></span><p>Sauf panne ou imprévu, Fabriques Alternatives mettra à disposition une <strong>imprimante 3D</strong> de type RepRap Prusa i2. Le filament sera gratuitement fourni. Si vous prévoyez de l'utiliser pour votre projet, étant donné que les temps d'impression sont longs, nous contacter au plus tôt pour faire une réservation de créneau : <a href="mailto:fabriques.alternatives@gmail.com">fabriques.alternatives@gmail.com</a>.</p>
+						<p>Carte Arduino et Raspberry Pi seront également disponibles gratuitement, ainsi que quelques composants électroniques de base (led, résistances, plaque de prototypage...). Les quantités étant relativement limitées, de la même façon, nous contacter au plus tôt pour toute réservation de matériel pour le week-end.</p>
+						
 				</div>
 			</div>
 

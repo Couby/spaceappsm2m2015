@@ -46,8 +46,8 @@
 						<li><a href="#"><span class="fa fa-trophy"></span>Défis</a></li>
 						<li><a href="calendrier.html"><span class="fa fa-calendar"></span>Calendrier</a></li>
 						<li><a href="kids.html"><span class="fa fa-reddit"></span>Kids</a></li>
-						<li><a href="#"><span class="fa fa-truck"></span>Logistique</a></li>
-						<li><a href="#"><span class="fa fa-folder-open"></span>Presse</a></li>
+						<li><a href="logistique.html"><span class="fa fa-truck"></span>Logistique</a></li>
+						<li class="active"><a href="#"><span class="fa fa-folder-open"></span>Presse</a></li>
 						<li><a href="hackathon.html" class="button special"><span class="fa fa-code"></span>Qu'est-ce qu'un Hackathon ?</a></li>
 					</ul>
 
@@ -68,6 +68,7 @@
 									<div class="4u  6u$(xsmall)">
 										<a href="fichiers/affiche_v4.pdf">Affiche<span class="image fit"><img src="fichiers/affiche.png" alt="" /></a></p></span>
 									</div>
+									<div class="4u$ 6u(xsmall)">
 										<a href="fichiers/sa_logo.jpg">Logo Space Apps<span class="image fit"><img src="fichiers/sa_logo.jpg" alt="" /></a></p></span>
 									</div>
 								</div>
