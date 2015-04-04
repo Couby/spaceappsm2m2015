@@ -91,18 +91,18 @@
 							<div class="4u 12u$(medium)">
 								<header>
 									<h2>Un événement international</h2>
-									<p>Plus d'une centaine de sites de par le monde</p>
+									<p>Plus de 130 sites de par le monde</p>
 								</header>
 							</div>
 							<div class="4u 12u$(medium)">
 								<p>C'est une mobilisation à la hauteur des défis qu'il s'agit de relever.
-								Passionnés de tous bords, bricoleurs, amis, curieux...
+								Passionnés de tous bords, bricoleurs, artistes, astronomes, amis, curieux...
 								Tout le monde peut participer !</p>
 							</div>
 							<div class="4u$ 12u$(medium)">
 								<p>De Tokyo à San Francisco, en passant par Nairobi, Linköping, 
-								, Melbourne, Cork ou Euskadi, c'est vraiment la planète entière qui 
-								se prend à rêver, coder, bricoler, rigoler, partager...
+								Melbourne, Cork ou Euskadi, c'est vraiment la planète entière qui 
+								se prend à rêver, coder, bricoler, imaginer, partager...
 								grands et petits, experts et novices, tous la tête dans les étoiles.</p>
 							</div>
 						</div>
@@ -175,7 +175,7 @@
 							<section class="4u 6u(medium) 12u$(xsmall)">
 								<a href="http://huiledecode.org"><span class="image"><img src="images/huile_de_code.png" alt="" /></span></a>
 								<h3>Huile de Code</h3>
-								<p>Les experts du code Libre</p>
+								<p>Les experts du code Libre.</p>
 							</section>
 							<section class="4u 6u$(medium) 12u$(xsmall)">
 								<a href="http://lemarsan-entreprendre.fr/index.php?cID=32"><span class="image"><img src="images/LaFabrik.png" alt="" /></span></a>
@@ -183,6 +183,9 @@
 								<p>La pépinière des créateurs innovants !</p>
 							</section>
 							<section class="4u$ 6u(medium) 12u$(xsmall)">
+								<a href="http://astroclubmarsan.net"><span class="image"><img src="images/astroclub.png" alt="" /></span></a>
+								<h3>Astro Club du Marsan</h3>
+								<p>La passion de l'astronomie pour tous.</p>
 
 							</section>
 						</div>
@@ -217,7 +220,7 @@
 					<li><a href="https://www.facebook.com/spaceappsm2m" class="icon alt fa-facebook" target="_blank"><span class="label">Facebook</span></a></li>
 					<li><a href="https://plus.google.com/u/0/b/105346775597308344296/105346775597308344296/posts" class="icon alt fa-google-plus" target="_blank"><span class="label">Google+</span></a></li>
 					<li><a href="mailto:fabriques.alternatives@gmail.com" class="icon alt fa-envelope"><span class="label">Email</span></a></li>
-					<li><a href="http://forums.fabriques-alternatives.org/category/17/international-space-apps-challenge" class="icon alt fa-question-circle" target="_blank"><span class="label">Email</span></a></li>
+					<li><a href="http://forums.fabriques-alternatives.org/category/17/international-space-apps-challenge" class="icon alt fa-question-circle" target="_blank"><span class="label">Forums Fabriques Alternatives</span></a></li>
 					<!-- <li><a href="#" class="icon alt fa-github"><span class="label">GitHub</span></a></li>
 					-->
 				</ul>
