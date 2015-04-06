@@ -8,8 +8,8 @@
 	<head>
 		<title>Un Hackathon c'est quoi</title>
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
-		<meta name="description" content="" />
-		<meta name="keywords" content="" />
+		<meta name="description" content="Space Apps Mont-de-Marsan 2015. Décryptage Hackathon." />
+		<meta name="keywords" content="spaceapps, mont-de-marsan, nasa, hackathon, fablab, innovation, espace" />
 		<!--[if lte IE 8]><script src="css/ie/html5shiv.js"></script><![endif]-->
 		<script src="js/jquery.min.js"></script>
 		<script src="js/jquery.scrolly.min.js"></script>
@@ -84,7 +84,11 @@
 							<!-- Content -->
 								<section id="content">
 
-									<h3>Introduction</h3>
+									<h3>Qu'est-ce qu'un hackathon ?</h3>
+									<iframe width="560" height="315" src="https://www.youtube.com/embed/wwe3_Rmrbgg" frameborder="0" allowfullscreen></iframe>
+									<p>En 1 min 16, petite vidéo de la European Space Agency avec un passage en français très explicite.</p>
+
+									<h3>Introduction/invitation Space Apps Mont-de-Marsan</h3>
 									<iframe width="560" height="315" src="https://www.youtube.com/embed/D_y0LkSjGKQ" frameborder="0" allowfullscreen></iframe>
 									<p>Particularités du Space Apps, en 2 minutes...</p>
 

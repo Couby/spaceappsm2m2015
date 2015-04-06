@@ -8,8 +8,8 @@
 	<head>
 		<title>Programme du Space Apps 2015 à Mont-de-Marsan</title>
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
-		<meta name="description" content="" />
-		<meta name="keywords" content="" />
+		<meta name="description" content="Space Apps Mont-de-Marsan 2015. Programme du week-end." />
+		<meta name="keywords" content="programme, challenges, spaceapps, mont-de-marsan, nasa, hackathon, fablab, innovation, espace" />
 		<!--[if lte IE 8]><script src="css/ie/html5shiv.js"></script><![endif]-->
 		<script src="js/jquery.min.js"></script>
 		<script src="js/jquery.scrolly.min.js"></script>
@@ -189,6 +189,7 @@
 					<li><a href="https://www.facebook.com/spaceappsm2m" class="icon alt fa-facebook" target="_blank"><span class="label">Facebook</span></a></li>
 					<li><a href="https://plus.google.com/u/0/b/105346775597308344296/105346775597308344296/posts" class="icon alt fa-google-plus" target="_blank"><span class="label">Google+</span></a></li>
 					<li><a href="mailto:fabriques.alternatives@gmail.com" class="icon alt fa-envelope"><span class="label">Email</span></a></li>
+					<li><a href="http://forums.fabriques-alternatives.org/category/17/international-space-apps-challenge" class="icon alt fa-question-circle" target="_blank"><span class="label">Forums Fabriques Alternatives</span></a></li>
 					<!-- <li><a href="#" class="icon alt fa-github"><span class="label">GitHub</span></a></li>
 					-->
 				</ul>
