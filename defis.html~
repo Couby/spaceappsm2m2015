@@ -6,10 +6,10 @@
 -->
 <html>
 	<head>
-		<title>Left Sidebar - Landed by HTML5 UP</title>
+		<title>Défis Space Apps Mont-de-Marsan 2015</title>
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
-		<meta name="description" content="" />
-		<meta name="keywords" content="" />
+		<meta name="description" content="Space Apps Mont-de-Marsan 2015. Pages des défis." />
+		<meta name="keywords" content="défis, challenges, spaceapps, mont-de-marsan, nasa, hackathon, fablab, innovation, espace" />
 		<!--[if lte IE 8]><script src="css/ie/html5shiv.js"></script><![endif]-->
 		<script src="js/jquery.min.js"></script>
 		<script src="js/jquery.scrolly.min.js"></script>
@@ -53,64 +53,85 @@
 				</nav>
 			</header>
 
-		<!-- Main -->
-			<div id="main" class="wrapper style1">
-				<div class="container">
-					<header class="major">
-						<h2>Left Sidebar</h2>
-						<p>Ipsum dolor feugiat aliquam tempus sed magna lorem consequat accumsan</p>
-					</header>
-					<div class="row 150%">
-						<div class="4u 12u$(medium)">
+      <!-- Main -->
+      <div id="main" class="wrapper style1">
+        <div class="container">
 
-							<!-- Sidebar -->
-								<section id="sidebar">
-									<section>
-										<h3>Magna Feugiat</h3>
-										<p>Sed tristique purus vitae volutpat commodo suscipit amet sed nibh. Proin a ullamcorper sed blandit. Sed tristique purus vitae volutpat commodo suscipit ullamcorper commodo suscipit amet sed nibh. Proin a ullamcorper sed blandit..</p>
-										<footer>
-											<ul class="actions">
-												<li><a href="#" class="button">Learn More</a></li>
-											</ul>
-										</footer>
-									</section>
-									<hr />
-									<section>
-										<a href="#" class="image fit"><img src="images/pic06.jpg" alt="" /></a>
-										<h3>Amet Lorem Tempus</h3>
-										<p>Sed tristique purus vitae volutpat commodo suscipit amet sed nibh. Proin a ullamcorper sed blandit. Sed tristique purus vitae volutpat commodo suscipit ullamcorper sed blandit lorem ipsum dolore.</p>
-										<footer>
-											<ul class="actions">
-												<li><a href="#" class="button">Learn More</a></li>
-											</ul>
-										</footer>
-									</section>
-								</section>
+          <header class="major">
+            <h2><i class="icon fa-space-shuttle"></i>  Les défis</h2>
+            <p>Ci-dessous la description des cinq défis proposés par la NASA ayant plus particulièrement retenu notre attention.</p>
+            <p>Vous pouvez consulter des résumés en français de tous les défis sur <a href="http://forums.fabriques-alternatives.org/category/17/international-space-apps-challenge" target="_blank">les forums Fabriques Alternatives</a>.</p>
+            <p>La description complète des défis sur <a href="https://2015.spaceappschallenge.org/challenge" target="_blank">le site International</a>.</p>
+          </header>
 
-						</div>
-						<div class="8u$ 12u$(medium) important(medium)">
+          <div class="row 150%">
 
-							<!-- Content -->
-								<section id="content">
-									<a href="#" class="image fit"><img src="images/pic05.jpg" alt="" /></a>
-									<h3>Dolore Amet Consequat</h3>
-									<p>Aliquam massa urna, imperdiet sit amet mi non, bibendum euismod est. Curabitur mi justo, tincidunt vel eros ullamcorper, porta cursus justo. Cras vel neque eros. Vestibulum diam quam, mollis at magna consectetur non, malesuada quis augue. Morbi tincidunt pretium interdum est. Curabitur mi justo, tincidunt vel eros ullamcorper, porta cursus justo. Cras vel neque eros. Vestibulum diam.</p>
-									<p>Vestibulum diam quam, mollis at consectetur non, malesuada quis augue. Morbi tincidunt pretium interdum. Morbi mattis elementum orci, nec dictum porta cursus justo. Quisque ultricies lorem in ligula condimentum, et egestas turpis sagittis. Cras ac nunc urna. Nullam eget lobortis purus. Phasellus vitae tortor non est placerat tristique.</p>
-									<h3>Sed Magna Ornare</h3>
-									<p>In vestibulum massa quis arcu lobortis tempus. Nam pretium arcu in odio vulputate luctus. Suspendisse euismod lorem eget lacinia fringilla. Sed sed felis justo. Nunc sodales elit in laoreet aliquam. Nam gravida, nisl sit amet iaculis porttitor, risus nisi rutrum metus.</p>
-									<ul>
-										<li>Faucibus orci lobortis ac adipiscing integer.</li>
-										<li>Col accumsan arcu mi aliquet placerat.</li>
-										<li>Lobortis vestibulum ut magna tempor massa nascetur.</li>
-										<li>Blandit massa non blandit tempor interdum.</li>
-										<li>Lacinia mattis arcu nascetur lobortis.</li>
-									</ul>
-								</section>
+           <!-- <div class="12u$ 12u$(medium) important(medium)"> -->
 
-						</div>
-					</div>
-				</div>
-			</div>
+              <!-- Content -->
+                <section id="content">
+		            <h3><a href="https://2015.spaceappschallenge.org/challenge/3d-astromed-devices" target="_blank">Équipements 3D AstroMed</a></h3>
+		            <div class="image left"> <img src="images/ultimaker_medic.jpg" alt="Future medical devices"/> </div>
+		            <div>
+		            	<p>Les membres d'équipage qui parcourent de longues distances loin de la Terre ne peuvent pas se rendre aux urgences d'un hôpital lorsqu'ils ils ont une grosse fièvre ou s'ils se brisent un os. Les agences spatiales fournissent une trousse médicale pour les missions, de sorte que dans des circonstances d'urgence, les membres d'équipage puissent se soigner eux-mêmes.</p>
+		            	<p>Plus nous nous éloignons de la maison et des possibilités de missions de ravitaillement, plus nous avons besoin de flexibilité pour gérer la santé de l'équipage.</p>
+		            	<p>La technologie d'impression 3D peut être un moyen d'aider à prodiguer des soins pour les membres d'équipage en mission de longue durée.
+	Nous avons besoin de votre aide pour modéliser des dispositifs médicaux qui ne seront pas seulement utiles dans l'espace, mais également pour des situations similaires d'isolement sur Terre par rapport aux infrastructures de santé.</p>
+						<ul>
+		                    <li>Vous pouvez modéliser et imprimer tout ou partie de ces dispositifs, ou créer de nouveaux dispositifs médicaux ou des équipements qui selon vous devraient être inclus dans le kit.</li>
+		                    <li>Vous pouvez ré-imaginer le kit médical qui peut être modélisé et imprimé.</li>
+		                    <li>Soyez créatif.</li>
+                    	</ul>
+		            </div>
+
+                  <h3><a href="https://2015.spaceappschallenge.org/challenge/volcanoes-icebergs-and-cats-space" target="_blank">Volcans, icebergs et chats vus de l'espace</a></h3>
+                    <div class="image right"> <img src="images/satellite-picture-of-a-volcano1.jpg" alt="Vue satellite d'un volcan en éruption" /> </div>
+                  	<div>
+                    	<p>Nous avons besoin d'une application pour crowdsourcer la découverte d'événements naturels "intéressants" observés depuis l'espace, en utilisant les données d'observation de la Terre issues des satellites de la NASA : tels que les incendies de forêt qui brûlent, les volcans en éruption, ou la formation d'icebergs.</p>
+                    	<p>Si chacun d'entre vous peut nous aidez à découvrir des événements de ce type, en utilisant une interface commune que vous créez avec ce défi, nous pouvons découvrir bien plus ensemble que ne le pourront jamais quelques scientifiques seuls dans leur coin.</p>
+                    	<p>Et, nous pourrons partager vos découvertes avec le monde.</p>
+                  	</div>
+
+                	<h3><a href="https://2015.spaceappschallenge.org/challenge/crop-alert-learning-growers" target="_blank">Alerte culture - apprendre des agriculteurs</a></h3>
+                  	<div class="image left"> <img src="images/mais.jpg" alt="Maïs" /> </div>
+                  	<div>
+                    	<p>Développez une application web, utilisable également sur smartphone, utilisant pourquoi pas aussi des SMS, pour aider les agriculteurs à faire face aux parasites et aux maladies qui frappent les cultures.</p>
+                    	<p>Le défi consiste à développer une application qui repose sur des informations fournies en masse par les agriculteurs eux-mêmes sur les parasites et les maladies qui touchent leurs cultures et les effets sur leurs récoltes.</p>
+                    	<p>Les données qui résultent de ces collectes d'information en temps réel pourraient être affichées de façon créative ou graphique, par exemple en cartographiant la propagation dans le temps des parasites / maladies. Des photos pourraient également être intégrées pour aider à l'identification des parasites / maladies par la communauté.</p>
+                  	</div>
+
+                	<h3><a href="https://2015.spaceappschallenge.org/challenge/print-your-own-space-food" target="_blank">Imprimez votre propre nourriture de l'espace</a></h3>
+                  	<div class="image right"> <img src="images/3D_printer.jpg" alt="3D printer" /> </div>
+                  	<div>
+                    	<p>Imaginez le réplicateur d'aliments, comme s'il s'agissait d'un équipement d'une série de science-fiction.</p>
+                    	<p>Étudiez les avantages et la faisabilité de permettre aux astronautes de s'imprimer leur propre nourriture à partir de la Station spatiale internationale.
+                      A quoi cela pourrait-il bien ressembler ? De quoi ce serait fait ? Comment rendre cela possible ?
+                      Créez une recette pour un repas imprimé 3D.</p>
+                    	<ul>
+                      		<li>Identifiez les avantages de la fabrication additive en termes de production alimentaire pour une utilisation dans l'espace.</li>
+                      		<li>Identifiez les options de recyclage 3D des aliments imprimés.</li>
+                      		<li>Quels sont les inconvénients pour l'utilisation de cette technologie dans l'espace ?</li>
+                      		<li>Y at-il des options viables dans le proche ou moyen terme ?</li>
+                      		<li>Considérez comment il serait possible de recycler tous les restes de nourriture, d'utiliser des matériaux d'avenir pour l'impression comestible.</li>
+                      		<li>Identifiez quels ingrédients de base (consommables - pas seulement les comestibles) seraient nécessaires et en quelles quantités, et comment vous pourriez les diviser par deux.</li>
+                    	</ul>
+                  	</div>
+
+                	<h3><a href="https://2015.spaceappschallenge.org/challenge/happy-moments-space" target="_blank">Moments joyeux depuis l'espace</a></h3>
+                  	<div class="image left"> <img src="images/mais.jpg" alt="Maïs" /> </div>
+                  	<div>
+                    	<p>Il est des moments de la vie qui sont très particuliers - la naissance d'un bébé, un diplôme universitaire, un mariage - ils méritent des messages de félicitations aussi spéciaux qu'originaux. Que pourrait-il y avoir de plus spécial que votre message de félicitations envoyé avec une magnifique image d'une galaxie lointaine, très lointaine prise exactement au moment où cet événement a eu lieu? Que diriez-vous d'une image de notre étoile, le Soleil, prise juste au moment de la naissance du premier bébé de votre meilleure amie ? Mieux encore, que diriez-vous d'une composition avec des images multiples combinées en une carte postale totalement unique ?</p>
+                    	<p>Ce défi vise à développer une application pour envoyer des messages de félicitations personnalisés pour le destinataire avec des images de capteurs spatiaux stockés dans les archives de la science.</p>
+                    	<p>Une grande partie de ce défi consiste à comprendre comment accéder à ces archives scientifiques et la composition des produits basés sur les mécanismes d'interrogation spécifiques.</p>
+                  	</div>
+
+                </section>
+
+            <!-- </div>-->
+          </div>
+        </div>
+      </div>
+
 
 		<!-- Footer -->
 			<footer id="footer">
@@ -119,6 +140,7 @@
 					<li><a href="https://www.facebook.com/spaceappsm2m" class="icon alt fa-facebook" target="_blank"><span class="label">Facebook</span></a></li>
 					<li><a href="https://plus.google.com/u/0/b/105346775597308344296/105346775597308344296/posts" class="icon alt fa-google-plus" target="_blank"><span class="label">Google+</span></a></li>
 					<li><a href="mailto:fabriques.alternatives@gmail.com" class="icon alt fa-envelope"><span class="label">Email</span></a></li>
+					<li><a href="http://forums.fabriques-alternatives.org/category/17/international-space-apps-challenge" class="icon alt fa-question-circle" target="_blank"><span class="label">Forums Fabriques Alternatives</span></a></li>
 					<!-- <li><a href="#" class="icon alt fa-github"><span class="label">GitHub</span></a></li>
 					-->
 				</ul>
