@@ -60,8 +60,8 @@
 				<div class="content">
 					<header>
 						<h2>NASA Space Apps Challenge 2015</h2>
-						<p>Participez à l'aventure de la conquête spatiale.<br />
-						Rejoignez-nous les <b>11 & 12 avril 2015</b>.<br />
+						<p>MISSION ACCOMPLIE !!!<br />
+						C'était les <b>11 & 12 avril 2015</b>.<br />
 						La Fabrik, Mont de Marsan.</p>
 					</header>
 					<span class="image"><img src="images/sa_logo.jpg" alt="" /></span>
@@ -74,9 +74,9 @@
 							<li><a3 href="mailto:fabriques.alternatives@gmail.com" class="icon fa-envelope"><span class="label">Email</span></a3></li>
 							<li><a3 href="http://forums.fabriques-alternatives.org/category/17/international-space-apps-challenge" class="icon fa-question-circle" target="_blank"><span class="label">Forums</span></a3></li>
 						</ul>
-						<ul class="actions">
+						<!--<ul class="actions">
 							<li><a href="https://docs.google.com/forms/d/1XtjF3hY1S-Hmys_Zc2fxyibeOlRWdsbZPT8WQpGXHqM/viewform?usp=send_form" class="button special" target="_blank"><span class="fa fa-sign-in"></span> Inscription au Space Apps M2M</a></li>
-						</ul>
+						</ul>-->
 					</div>
 				</div>
 				<a href="#one" class="goto-next scrolly">Next</a>
